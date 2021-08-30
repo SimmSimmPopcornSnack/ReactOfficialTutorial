@@ -1,3 +1,7 @@
+This is what I followed a tutorial  
+https://reactjs.org/tutorial/tutorial.html  
+including the listed extra items at the end of the tutorial.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
